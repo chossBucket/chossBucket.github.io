@@ -1,0 +1,46 @@
+
+$img-height:        500px
+$start-align:       20vw // mystery number, not responsive
+$img-total-width:   4000px // mystery number, not responsive
+
+#slideshow
+  width: 98vw // 100-scroll bar width, dependint on my screen
+  height: $img-height
+  position: relative
+  overflow: hidden
+  margin-left: -$start-align // moves slideshow out of article alignment so image will flow left
+  margin-bottom: $spacing-unit
+
+
+#slideshow-indent-left
+  height: $img-height
+  width:  $spacing-unit
+  z-index: 100
+  position: absolute
+  background-color: $background-color
+
+#slideshow-indent-right
+  @extend #slideshow-indent-left
+  right: 0
+
+
+#slideshow-previous
+
+
+#slideshow-next
+
+
+
+#slides
+  display: inline-block
+  position: absolute
+  margin-left: $start-align // moves first image back into alignment with articles, coz looks better
+  .slide
+    float: left
+    padding-right: $spacing-unit
+    img
+      max-width: 98vw
+      display: block
+      height: 500px
+    .slide-caption
+      display: none

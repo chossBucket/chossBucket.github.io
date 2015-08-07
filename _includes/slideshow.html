@@ -1,0 +1,18 @@
+<div id="slideshow">
+  <div id="slideshow-indent-left"></div>
+  <div id="slideshow-indent-right"></div>
+  <div id="slideshow-previous"></div>
+  <div id="slideshow-next"></div>
+  <div id="slides"> <!-- set width acording to number of images, set margin-left acording to which image is being viewed -->
+    {% for slide in page.slideshow %}
+
+      <div class="slide">
+        <img src="{{slide.url}}" alt="{{slide.name}}">
+        <div class="slide-caption">{{slide.caption}}</div>  <!-- display none; display block on roll over -->
+      </div>
+
+    {% endfor %}
+  </div>
+</div>
+
+<!-- reference www.colorsmagazine.com -->
