@@ -10,30 +10,30 @@ It is not possible to buy a guide book in english at the local climbing shop so 
 Some topos!
 
 
-![](assets/images/valMasinoTopos/IMG_20150726_153607.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150726_153607.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150726_153801.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150726_153801.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150729_150446.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150729_150446.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150804_193115.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150804_193115.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150804_193120.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150804_193120.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150804_193126.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150804_193126.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150805_110039.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150805_110039.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150805_110128.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150805_110128.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150805_154700.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150805_154700.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150805_154718.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150805_154718.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150805_184630.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150805_184630.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150805_184644.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150805_184644.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150806_103948.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150806_103948.jpg)
 
-![](assets/images/valMasinoTopos/IMG_20150806_103958.jpg)
+![](/assets/images/valMasinoTopos/IMG_20150806_103958.jpg)
