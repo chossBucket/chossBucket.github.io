@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
+    font-family: $serif-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
@@ -81,6 +81,11 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    font-family: $serif-font-family;
+    @include media-query($on-palm) {
+        text-align: center;
+    }
+
 }
 
 
@@ -114,6 +119,13 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
+    font-family: $serif-font-family;
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: $serif-font-family;
+
+    }
+
 
     > :last-child {
         margin-bottom: 0;
@@ -202,3 +214,13 @@ pre {
         }
     }
 }
+
+/**
+ * Misc
+ */
+
+ .meta, .post-meta {
+   font-family: $serif-font-family;
+   font-style: italic;
+   text-align: center;
+ }

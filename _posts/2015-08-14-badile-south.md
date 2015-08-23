@@ -31,25 +31,25 @@ layout: post
 
 ![topo](/assets/images/pizBadileSouth/topo.jpg)
 
-## Rack
-
-* Half set of nuts, even numbers
-* 4 slings
-* 7 alpine draws
-* single 60m rope
-* usual locking biners, tat, belay devices...
-
 ## Comments
 
-There are loads of ciarns around the Gianetti hut so following the upon approach is not very straight forward. On the plus side start of the route is easy to spot so walking in the general direction will get you where you want.
+There are loads of ciarns around the Gianetti hut so following them on approach is not very straight forward. On the plus side the start of the route is easy to spot so walking in the general direction will get you where you want.
 
-The starting ramp was not obvious on approach. We headed past the foot of the buttress towards a prominent crack we thought looked climbable, luckily the ramp starts near the base of the crack.
+The starting ramp was not obvious. We headed past the foot of the buttress towards a prominent crack we thought looked climbable, luckily the ramp starts near the base of the crack.
 
 The fixed rope in the grade III chimney is worn to the core so be wary, after the chimney you climb up for a short while before heading right on to the ledges (thin paths). This right turn is easy to miss... After a while the ledges become really thin and transform into about 15m of unprotectable scrambling, there is a fixed rope here which is a good route marker but is extremely worn.
 
 In descent the top of this fixed rope there is a mallion and plenty of good abseil tat, at the top of the grade III chimney the cross and another rock provide an abseil point to the right of the chimney (if facing towards the base). This leads to the top of the "climbable crack" and a nice big ring anchor which will allow you to abseil to the start of the route.
 
 Bonus points if you find a chocolate bar wedged in a crack while abseiling...
+
+### Rack
+
+* Half set of nuts, even numbers
+* 4 slings
+* 7 alpine draws
+* single 60m rope
+* usual locking biners, tat, belay devices...
 
 
 ![Racking up](/assets/images/pizBadileSouth/racking.jpg)
