@@ -8,11 +8,11 @@ The city of stones. We arrived in the rain and clouds and the next morning woke 
 
 ![cittadeisassi](/assets/images/cittidelsassi/20150828_121114.jpg)
 
-There is loads of sport climbing pretty close to twhere we parked but not road-side so it feels more remote, especially with the dramatic setting.
+There is loads of sport climbing pretty close to where we parked but not road-side so it feels more remote, especially with the dramatic setting.
 
 ![rocks](/assets/images/cittidelsassi/IMG_20150828_114804.jpg)
 
-Our rockfax guide book is great for getting us to the area but I'm not convinced that it's massively accurate. Luckily most of the climbs are labelled :)
+Our rockfax guide book is great for getting us to the area but I'm not convinced that it's massively accurate. Luckily most of the climbs are labeled :)
 
 ![climblabel](/assets/images/cittidelsassi/IMG_20150820_104128.jpg)
 
