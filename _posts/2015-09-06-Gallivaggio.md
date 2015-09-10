@@ -15,7 +15,7 @@ After lunch we scrambled up the river, relaxed and read our books. And had a swi
 
 ![waterfall](/assets/images/gallavaggio/effect-express1441649839804.jpg)
 
-We also visited the aquafraggia campsite and the guy who runs it has drawn loads of lovely topos in a huge book that is out for people to look at. He's also put versions of them all up [online](/www.campingaquafraggia.com) for free. The topo above is one of these.
+We also visited the aquafraggia campsite and the guy who runs it has drawn loads of lovely topos in a huge book that is out for people to look at. He's also put versions of them all up [online](http://campingacquafraggia.com/climbindex_en.htm) for free. The topo above is one of these.
 
 ![topo drawing](/assets/images/gallavaggio/IMG_20150905_210047.jpg)
 
