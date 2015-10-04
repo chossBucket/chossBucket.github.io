@@ -20,6 +20,6 @@ I also had a go at making an v thread in the ice which you could technically abs
 
 ![ice thread](/assets/images/merdeglace/IMG_20150917_185814.jpg)
 
-The rain cleared up towards midday and we had a walk up the glacier to look at the morain, even though we been here the year before it had changed quite dramatically already, but was still incredibly beautiful. We could just about make out the impressive grand jorasses in the background too, perhaps one for next time...
+The rain cleared up towards midday and we had a walk up the glacier to look at the moraine, even though we been here the year before it had changed quite dramatically already, but was still incredibly beautiful. We could just about make out the impressive grand jorasses in the background too, perhaps one for next time...
 
 ![morain](/assets/images/merdeglace/IMG_20150917_192025.jpg)
