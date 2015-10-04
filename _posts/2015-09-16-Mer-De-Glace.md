@@ -13,3 +13,13 @@ The next day we decided to test out our new crampons and try a bit of easy ice c
 ![ladders](/assets/images/merdeglace/IMG_20150916_143853.jpg)
 
 We found a few places to test out our crampons, not the roped climbing we were hoping for, more like ice bouldering and ice traversing, but still fun and less hassle than setting up a top rope.
+
+![ice climbing](/assets/images/merdeglace/IMG_20150917_192136.jpg)
+
+I also had a go at making an v thread in the ice which you could technically abseil off, apparently.
+
+![ice thread](/assets/images/merdeglace/IMG_20150917_185814.jpg)
+
+The rain cleared up towards midday and we had a walk up the glacier to look at the morain, even though we been here the year before it had changed quite dramatically already, but was still incredibly beautiful. We could just about make out the impressive grand jorasses in the background too, perhaps one for next time...
+
+![morain](/assets/images/merdeglace/IMG_20150917_192025.jpg)
